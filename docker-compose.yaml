@@ -1,5 +1,3 @@
-version: '3'
-
 services:
 
     jump:
@@ -20,6 +18,5 @@ services:
             SHOWGREETING: 'false'
             METRICTEMP: 'true'
             CACHEBYPASS: 'true'
-            CHECKSTATUS: 'true'
+            CHECKSTATUS: 'true'           
 
-            
